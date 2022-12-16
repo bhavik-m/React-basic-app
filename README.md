@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Site is live at [Link](https://bhavik-m.github.io/React-basic-app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
